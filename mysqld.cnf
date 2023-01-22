@@ -1,0 +1,6 @@
+[mysqld]
+# server-id=ip with '.', 192.168.1.1 is 19216811  
+# 替换serverid 为 10位以内的数字
+server-id=1612271518
+#log-slave-updates
+#read_only只读

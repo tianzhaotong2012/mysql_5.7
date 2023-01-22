@@ -1,0 +1,5 @@
+[client]
+user=admin
+password=123456
+#替换为mysql的admin用户的密码
+socket=/home/mysql/mysql/tmp/mysql.sock
